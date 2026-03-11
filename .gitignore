@@ -1,0 +1,16 @@
+# Binaries
+server
+*.exe
+*.out
+*.test
+
+# Go workspace / coverage
+coverage.out
+
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
+
+# Env files
+.env

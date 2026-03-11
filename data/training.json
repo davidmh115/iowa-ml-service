@@ -1,0 +1,482 @@
+
+[{
+  "year": "2015",
+  "month": "1",
+  "bottles_sold": "1459538"
+}, {
+  "year": "2015",
+  "month": "2",
+  "bottles_sold": "1591962"
+}, {
+  "year": "2015",
+  "month": "3",
+  "bottles_sold": "1752114"
+}, {
+  "year": "2015",
+  "month": "4",
+  "bottles_sold": "1762273"
+}, {
+  "year": "2015",
+  "month": "5",
+  "bottles_sold": "1683839"
+}, {
+  "year": "2015",
+  "month": "6",
+  "bottles_sold": "2057771"
+}, {
+  "year": "2015",
+  "month": "7",
+  "bottles_sold": "1729239"
+}, {
+  "year": "2015",
+  "month": "8",
+  "bottles_sold": "1740078"
+}, {
+  "year": "2015",
+  "month": "9",
+  "bottles_sold": "1839869"
+}, {
+  "year": "2015",
+  "month": "10",
+  "bottles_sold": "1925849"
+}, {
+  "year": "2015",
+  "month": "11",
+  "bottles_sold": "1773733"
+}, {
+  "year": "2015",
+  "month": "12",
+  "bottles_sold": "2256178"
+}, {
+  "year": "2016",
+  "month": "1",
+  "bottles_sold": "1471599"
+}, {
+  "year": "2016",
+  "month": "2",
+  "bottles_sold": "1764680"
+}, {
+  "year": "2016",
+  "month": "3",
+  "bottles_sold": "1848907"
+}, {
+  "year": "2016",
+  "month": "4",
+  "bottles_sold": "1734437"
+}, {
+  "year": "2016",
+  "month": "5",
+  "bottles_sold": "1983846"
+}, {
+  "year": "2016",
+  "month": "6",
+  "bottles_sold": "2121372"
+}, {
+  "year": "2016",
+  "month": "7",
+  "bottles_sold": "1692319"
+}, {
+  "year": "2016",
+  "month": "8",
+  "bottles_sold": "1781231"
+}, {
+  "year": "2016",
+  "month": "9",
+  "bottles_sold": "1904254"
+}, {
+  "year": "2016",
+  "month": "10",
+  "bottles_sold": "2012889"
+}, {
+  "year": "2016",
+  "month": "11",
+  "bottles_sold": "1992304"
+}, {
+  "year": "2016",
+  "month": "12",
+  "bottles_sold": "2362480"
+}, {
+  "year": "2017",
+  "month": "1",
+  "bottles_sold": "1598820"
+}, {
+  "year": "2017",
+  "month": "2",
+  "bottles_sold": "1748381"
+}, {
+  "year": "2017",
+  "month": "3",
+  "bottles_sold": "1945339"
+}, {
+  "year": "2017",
+  "month": "4",
+  "bottles_sold": "1799276"
+}, {
+  "year": "2017",
+  "month": "5",
+  "bottles_sold": "2151064"
+}, {
+  "year": "2017",
+  "month": "6",
+  "bottles_sold": "2202624"
+}, {
+  "year": "2017",
+  "month": "7",
+  "bottles_sold": "1954350"
+}, {
+  "year": "2017",
+  "month": "8",
+  "bottles_sold": "2210764"
+}, {
+  "year": "2017",
+  "month": "9",
+  "bottles_sold": "1841327"
+}, {
+  "year": "2017",
+  "month": "10",
+  "bottles_sold": "2234662"
+}, {
+  "year": "2017",
+  "month": "11",
+  "bottles_sold": "2022265"
+}, {
+  "year": "2017",
+  "month": "12",
+  "bottles_sold": "2281145"
+}, {
+  "year": "2018",
+  "month": "1",
+  "bottles_sold": "1825656"
+}, {
+  "year": "2018",
+  "month": "2",
+  "bottles_sold": "1756603"
+}, {
+  "year": "2018",
+  "month": "3",
+  "bottles_sold": "1925462"
+}, {
+  "year": "2018",
+  "month": "4",
+  "bottles_sold": "2017589"
+}, {
+  "year": "2018",
+  "month": "5",
+  "bottles_sold": "2343951"
+}, {
+  "year": "2018",
+  "month": "6",
+  "bottles_sold": "2178069"
+}, {
+  "year": "2018",
+  "month": "7",
+  "bottles_sold": "2045236"
+}, {
+  "year": "2018",
+  "month": "8",
+  "bottles_sold": "2333500"
+}, {
+  "year": "2018",
+  "month": "9",
+  "bottles_sold": "1828704"
+}, {
+  "year": "2018",
+  "month": "10",
+  "bottles_sold": "2507113"
+}, {
+  "year": "2018",
+  "month": "11",
+  "bottles_sold": "2171054"
+}, {
+  "year": "2018",
+  "month": "12",
+  "bottles_sold": "2502103"
+}, {
+  "year": "2019",
+  "month": "1",
+  "bottles_sold": "1903122"
+}, {
+  "year": "2019",
+  "month": "2",
+  "bottles_sold": "1898027"
+}, {
+  "year": "2019",
+  "month": "3",
+  "bottles_sold": "1917261"
+}, {
+  "year": "2019",
+  "month": "4",
+  "bottles_sold": "2200651"
+}, {
+  "year": "2019",
+  "month": "5",
+  "bottles_sold": "2511118"
+}, {
+  "year": "2019",
+  "month": "6",
+  "bottles_sold": "2209798"
+}, {
+  "year": "2019",
+  "month": "7",
+  "bottles_sold": "2400744"
+}, {
+  "year": "2019",
+  "month": "8",
+  "bottles_sold": "2243518"
+}, {
+  "year": "2019",
+  "month": "9",
+  "bottles_sold": "2123913"
+}, {
+  "year": "2019",
+  "month": "10",
+  "bottles_sold": "2571873"
+}, {
+  "year": "2019",
+  "month": "11",
+  "bottles_sold": "2288303"
+}, {
+  "year": "2019",
+  "month": "12",
+  "bottles_sold": "2576011"
+}, {
+  "year": "2020",
+  "month": "1",
+  "bottles_sold": "2000631"
+}, {
+  "year": "2020",
+  "month": "2",
+  "bottles_sold": "1996321"
+}, {
+  "year": "2020",
+  "month": "3",
+  "bottles_sold": "2406919"
+}, {
+  "year": "2020",
+  "month": "4",
+  "bottles_sold": "2451397"
+}, {
+  "year": "2020",
+  "month": "5",
+  "bottles_sold": "2510415"
+}, {
+  "year": "2020",
+  "month": "6",
+  "bottles_sold": "2724971"
+}, {
+  "year": "2020",
+  "month": "7",
+  "bottles_sold": "2577917"
+}, {
+  "year": "2020",
+  "month": "8",
+  "bottles_sold": "2500348"
+}, {
+  "year": "2020",
+  "month": "9",
+  "bottles_sold": "2659920"
+}, {
+  "year": "2020",
+  "month": "10",
+  "bottles_sold": "2720743"
+}, {
+  "year": "2020",
+  "month": "11",
+  "bottles_sold": "2379008"
+}, {
+  "year": "2020",
+  "month": "12",
+  "bottles_sold": "2912674"
+}, {
+  "year": "2021",
+  "month": "1",
+  "bottles_sold": "2203381"
+}, {
+  "year": "2021",
+  "month": "2",
+  "bottles_sold": "2225257"
+}, {
+  "year": "2021",
+  "month": "3",
+  "bottles_sold": "2680901"
+}, {
+  "year": "2021",
+  "month": "4",
+  "bottles_sold": "2643103"
+}, {
+  "year": "2021",
+  "month": "5",
+  "bottles_sold": "2492732"
+}, {
+  "year": "2021",
+  "month": "6",
+  "bottles_sold": "2867294"
+}, {
+  "year": "2021",
+  "month": "7",
+  "bottles_sold": "2558550"
+}, {
+  "year": "2021",
+  "month": "8",
+  "bottles_sold": "2646637"
+}, {
+  "year": "2021",
+  "month": "9",
+  "bottles_sold": "2589685"
+}, {
+  "year": "2021",
+  "month": "10",
+  "bottles_sold": "2709511"
+}, {
+  "year": "2021",
+  "month": "11",
+  "bottles_sold": "2619605"
+}, {
+  "year": "2021",
+  "month": "12",
+  "bottles_sold": "2966881"
+}, {
+  "year": "2022",
+  "month": "1",
+  "bottles_sold": "2062829"
+}, {
+  "year": "2022",
+  "month": "2",
+  "bottles_sold": "2094442"
+}, {
+  "year": "2022",
+  "month": "3",
+  "bottles_sold": "2190674"
+}, {
+  "year": "2022",
+  "month": "4",
+  "bottles_sold": "2560073"
+}, {
+  "year": "2022",
+  "month": "5",
+  "bottles_sold": "2610732"
+}, {
+  "year": "2022",
+  "month": "6",
+  "bottles_sold": "2783728"
+}, {
+  "year": "2022",
+  "month": "7",
+  "bottles_sold": "2408078"
+}, {
+  "year": "2022",
+  "month": "8",
+  "bottles_sold": "2885003"
+}, {
+  "year": "2022",
+  "month": "9",
+  "bottles_sold": "2626119"
+}, {
+  "year": "2022",
+  "month": "10",
+  "bottles_sold": "2728062"
+}, {
+  "year": "2022",
+  "month": "11",
+  "bottles_sold": "2599143"
+}, {
+  "year": "2022",
+  "month": "12",
+  "bottles_sold": "2883140"
+}, {
+  "year": "2023",
+  "month": "1",
+  "bottles_sold": "2356148"
+}, {
+  "year": "2023",
+  "month": "2",
+  "bottles_sold": "2287773"
+}, {
+  "year": "2023",
+  "month": "3",
+  "bottles_sold": "2630242"
+}, {
+  "year": "2023",
+  "month": "4",
+  "bottles_sold": "2391391"
+}, {
+  "year": "2023",
+  "month": "5",
+  "bottles_sold": "2783716"
+}, {
+  "year": "2023",
+  "month": "6",
+  "bottles_sold": "2910130"
+}, {
+  "year": "2023",
+  "month": "7",
+  "bottles_sold": "2489992"
+}, {
+  "year": "2023",
+  "month": "8",
+  "bottles_sold": "2777255"
+}, {
+  "year": "2023",
+  "month": "9",
+  "bottles_sold": "2487699"
+}, {
+  "year": "2023",
+  "month": "10",
+  "bottles_sold": "2741885"
+}, {
+  "year": "2023",
+  "month": "11",
+  "bottles_sold": "2663993"
+}, {
+  "year": "2023",
+  "month": "12",
+  "bottles_sold": "2743642"
+}, {
+  "year": "2024",
+  "month": "1",
+  "bottles_sold": "2377520"
+}, {
+  "year": "2024",
+  "month": "2",
+  "bottles_sold": "2439060"
+}, {
+  "year": "2024",
+  "month": "3",
+  "bottles_sold": "2419405"
+}, {
+  "year": "2024",
+  "month": "4",
+  "bottles_sold": "2639657"
+}, {
+  "year": "2024",
+  "month": "5",
+  "bottles_sold": "2760679"
+}, {
+  "year": "2024",
+  "month": "6",
+  "bottles_sold": "2629980"
+}, {
+  "year": "2024",
+  "month": "7",
+  "bottles_sold": "2670785"
+}, {
+  "year": "2024",
+  "month": "8",
+  "bottles_sold": "2628250"
+}, {
+  "year": "2024",
+  "month": "9",
+  "bottles_sold": "2461228"
+}, {
+  "year": "2024",
+  "month": "10",
+  "bottles_sold": "2921571"
+}, {
+  "year": "2024",
+  "month": "11",
+  "bottles_sold": "2648993"
+}, {
+  "year": "2024",
+  "month": "12",
+  "bottles_sold": "2793123"
+}]
