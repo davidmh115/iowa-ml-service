@@ -105,7 +105,7 @@ func TestTrainingDataFilePath(t *testing.T) {
 
 ![Running Application](images/screenshot2.png)
 
-![Predicting Bottles Sold](images/screenshot1.png)
+![Predicting Bottles Sold](images/screenshot3.png)
 
 
 
