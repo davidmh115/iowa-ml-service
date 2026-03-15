@@ -109,10 +109,92 @@ func TestTrainingDataFilePath(t *testing.T) {
 
 
 
+## Monitoring with Prometheus
 
+This project includes monitoring using **Prometheus**. 
 
+### 1. Start the ML Service
 
+Run the application:
 
+```bash
+go run main.go
+```
+
+The service will start on:
+
+```
+http://localhost:9090
+```
+
+You can verify the service is running by visiting the health endpoint:
+
+```
+http://localhost:9090/health
+```
+
+---
+
+### 2. Start Prometheus
+
+Run the Prometheus container in a new terminal:
+
+```bash
+docker run -d --name prometheus \
+  -p 9091:9090 \
+  -v $(pwd)/prometheus.yml:/etc/prometheus/prometheus.yml \
+  prom/prometheus
+```
+
+Verify the container is running:
+
+```bash
+docker ps
+```
+
+---
+
+### 3. Open the Prometheus Web Interface
+
+Open a browser and navigate to:
+
+```
+http://<VM_IP>:9091
+```
+
+(or `http://localhost:9091` if running locally)
+
+Then navigate to:
+
+```
+Status → Targets
+```
+
+You should see the **iowa-ml-service** target listed as **UP**, indicating Prometheus is successfully scraping metrics from the application.
+
+---
+
+### 4. Query Metrics
+
+Go to the **Graph** tab and run the query:
+
+```
+go_goroutines
+```
+
+This metric shows the number of active goroutines in the Go application and confirms that Prometheus is successfully collecting metrics.
+
+---
+
+### 5. Generate Sample Traffic
+
+To generate traffic and populate metrics, run:
+
+```bash
+for i in {1..50}; do curl -s http://localhost:9090/health > /dev/null; done
+```
+
+This sends multiple requests to the service so Prometheus can collect metrics related to request handling and runtime behavior.
 
 
 
