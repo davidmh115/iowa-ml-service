@@ -3,7 +3,8 @@
 A containerized Go microservice application that uses a machine learning library and is based on a small sample of my project data. Accepts JSON input and Returns JSON output. 
 
 
-# JSON Training Data. I ran the following Query based on Iowa Liquor Sales Biq Query Dataset to get bottles sold each month from 2015 to 2025  
+## JSON Training Data
+### I ran the following Query based on Iowa Liquor Sales Biq Query Dataset to get bottles sold each month from 2015 to 2025  
 
 SELECT
   EXTRACT(YEAR  FROM date) AS year,
@@ -33,6 +34,7 @@ go run main.go
 ## Once running open new terminal and run: 
 
 curl http://localhost:9090/health
+
 curl -X POST http://localhost:9090/predict \
   -H "Content-Type: application/json" \
   -d '{"year":"2023","month":"6"}'
@@ -95,5 +97,23 @@ func TestTrainingDataFilePath(t *testing.T) {
 
 
 
-# CI pipeline demo update
+
+
+### Screenshots Demonstrating Operation
+
+![Contents](images/screenshot1.png)
+
+![Running Application](images/screenshot2.png)
+
+![Predicting Bottles Sold](images/screenshot1.png)
+
+
+
+
+
+
+
+
+
+
 
