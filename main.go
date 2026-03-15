@@ -8,6 +8,8 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/sajari/regression"
+	"github.com/prometheus/client_golang/prometheus/promhttp"
+
 )
 
 type TrainingRow struct {
@@ -160,6 +162,8 @@ func main() {
 	router.HandleFunc("/health", HealthHandler).Methods("GET")
 	router.HandleFunc("/data", GetDataHandler).Methods("GET")
 	router.HandleFunc("/predict", PredictHandler).Methods("POST")
+	router.Handle("/metrics", promhttp.Handler())
+
 
 	// Cloud Run sets PORT. Default locally to 9090.
 	port := os.Getenv("PORT")
