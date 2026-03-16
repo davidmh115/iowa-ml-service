@@ -1,6 +1,6 @@
 # Iowa Liquor Sales ML Service
 
-A containerized Go microservice application that uses a machine learning library and is based on a small sample of my project data. Accepts JSON input and Returns JSON output. This application will predict the numnber of bottles sold based on the inputted month. 
+A containerized Go microservice application that uses a machine learning library and is based on a small sample of my project data. Accepts JSON input and returns JSON output. This application will predict the number of bottles sold based on the inputted month. 
 
 
 ## JSON Training Data
